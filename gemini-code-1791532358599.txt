@@ -1,0 +1,9 @@
+legalease/
+├── package.json
+├── .env.local
+├── app/
+│   ├── api/
+│   │   └── generate/
+│   │       └── route.ts
+│   ├── layout.tsx
+│   └── page.tsx
